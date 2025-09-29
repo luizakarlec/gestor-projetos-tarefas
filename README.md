@@ -3,6 +3,8 @@
 Trabalho final da disciplina de ASP.NET Core MVC com Entity Framework Core.  
 O objetivo é demonstrar a capacidade de construir uma aplicação web completa aplicando os conceitos de MVC, persistência de dados e relacionamento 1:N entre entidades.
 
+![Tela inicial do sistema](assets/tela-inicial.png)
+
 ---
 
 ## Funcionalidades
